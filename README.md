@@ -3,9 +3,9 @@
 ## About
 
 enjoy movie time with friends: discover, choose, decide, watch together and enjoy!
-requirement: device with good internet, browser and friends
+- requirement: device with good internet, browser and friends
 
-This webpage allows users to
+## This webpage allows users to
 (upcoming..)
 
 ## Screenshot
