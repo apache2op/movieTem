@@ -15,7 +15,7 @@ enjoy movie time with friends: discover, choose, decide, watch together and enjo
 ## Links
 
 - Project URL: [GitHub Repository](https://github.com/apache2op/movieTem)
-- Live Site URL: [Live Site]()
+- Live Site URL: [Live Site](https://apache2op.github.io/movieTem/)
 
 ## Built with
 
