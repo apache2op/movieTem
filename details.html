@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Movie Details - Discord Style</title>
+    <link rel="stylesheet" href="custom.css" />
+  </head>
+  <body>
+    <header>
+      <nav class="navbar">
+        <span
+          class="logo"
+          onclick="window.location.href='index.html'"
+          style="cursor: pointer"
+          >MovieFinder</span
+        >
+        <div class="toggle-wrapper">
+          <button id="mode-toggle" title="Toggle Dark/Light Mode">
+            <span id="toggle-icon">🌙</span>
+          </button>
+        </div>
+      </nav>
+    </header>
+    <div id="details-root" style="padding: 2rem"></div>
+    <script src="details.js"></script>
+  </body>
+</html>
